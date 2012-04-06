@@ -1,6 +1,4 @@
 (clear)
-(watch facts)
-(watch rules)
 (deftemplate ship
   (slot number)
   (slot location)
